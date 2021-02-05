@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: iseauto
+Description: Description of iseauto
+Version: 1.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

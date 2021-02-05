@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c44750d1-2dbe-485c-a6b6-27bff550c832" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Line/MovingLineHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/SimSimNutikas - Copy/Assets/Scripts/Setup/Setup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tracked Vehicle Controller/TrackedVehicleSimulator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ROS/Bridge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/SimSimNutikas - Copy/Assets/Scripts/Tracked Vehicle Controller/TrackedVehicleSimulator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Line/LineGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MotorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ROS/Publishers/EncoderPublisher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Setup/Setup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RosSharp/Scripts/RosBridgeClient/RosCommuncation/Subscriber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils/PID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ROS/Publishers/DesiredPublisher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ROS/Publishers/IntPublisher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ROS/Subscribers/TrackedVehicleController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScreenSpaceFollower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ROS/Subscribers/RightTorqueSubscriber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ROS/Publishers/PublisherRightPreRamp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/SimSimNutikas - Copy/Assets/Scripts/ROS/Subscribers/RightTorqueSubscriber.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ROS/Messages/std_msgs/Float32.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ROS/Subscribers/TorqueSubscriber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ISEAUTO_MotorData_Simple.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ROS/Subscribers/FrameHierarchy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/SimSimNutikas - Copy/Assets/Scripts/ROS/Subscribers/LeftTorqueSubscriber.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/SimSimNutikas - Copy/Assets/Scripts/Tracked Vehicle Controller/ECU.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Line/MovingLineHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ROS/Publishers/GPSPublisher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ROS/Bridge.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ROS/Publishers/EncoderPublisher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ROS/Publishers/StringPublisher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ROS/Subscribers/FrameHierarchy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ROS/Publishers/IntPublisher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ROS/Subscribers/LeftTorqueSubscriber.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ROS/Subscribers/TorqueSubscriber.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ROS/Publishers/EncoderPublisher - Copy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Setup/Setup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ROS/Publishers/DesiredPublisher.cs" />
+        <option value="$PROJECT_DIR$/Assets/MotorController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dOhb5269hfRENui5Dn6ZCXSZOn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c44750d1-2dbe-485c-a6b6-27bff550c832" name="Default Changelist" comment="" />
+      <created>1592302115858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592302115858</updated>
+      <workItem from="1592302119670" duration="595000" />
+      <workItem from="1592436516186" duration="49000" />
+      <workItem from="1592438332066" duration="2591000" />
+      <workItem from="1593191930280" duration="2921000" />
+      <workItem from="1593312419667" duration="7515000" />
+      <workItem from="1593320366002" duration="1347000" />
+      <workItem from="1593395019936" duration="2589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+</project>
