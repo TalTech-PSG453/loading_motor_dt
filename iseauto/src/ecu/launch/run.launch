@@ -1,9 +1,0 @@
-<launch>
-    <node name="ecu_ccn" pkg="ecu" type="ecu_ccn" output="screen" />
-    <node name="ecu_drive" pkg="ecu" type="ecu_drive" output="screen" />
-    <node name="ecu_battery_node" pkg="ecu" type="ecu_battery_node" output="screen" />
-    <node name="ecu_sensors_node" pkg="ecu" type="ecu_sensors_node" output="screen" />
-
-
-
-</launch>

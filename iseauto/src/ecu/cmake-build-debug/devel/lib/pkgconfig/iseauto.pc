@@ -1,8 +1,0 @@
-prefix=/home/user/iseauto/src/ecu/cmake-build-debug/devel
-
-Name: iseauto
-Description: Description of iseauto
-Version: 1.0.0
-Cflags: 
-Libs: -L/home/user/iseauto/src/ecu/cmake-build-debug/devel/lib 
-Requires: 
