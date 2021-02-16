@@ -48,7 +48,15 @@ In current version, we simulate the data reception with use of .csv files that a
 
 ### Unity Project
 
-TBA
+1. Download Unity Hub and install Unity 2019.3
+
+2. Add Unity Visulaization as a project in Unity Hub and launch it
+
+3. Find scene called *Motor* and load it
+
+4. In the scene find object *ROS Bridge and Controller* under it there is a *Bridge* module where you specify IP address of the ROS machine that runs the part above
+
+5. Use *Advanced Motor Visualizer Component* attached to the *Load Motor* object to controll the simulation
 
 ## How To Run
 ****
@@ -59,6 +67,8 @@ TBA
 2. Launch the full_*launch.launch* file of ROS.
 ### Unity
 
-TBA
+1. Press the play button
+
+2. Use controls attached to the *Load Motor* object to manipulate the simulation
 
 ## 
