@@ -1,9 +1,6 @@
 [submodule "tb_digital_twin"]
 	path = tb_digital_twin
 	url = https://github.com/sejego/tb_digital_twin
-[submodule "loading_motor_unity_visualization"]
-	path = loading_motor_unity_visualization
-	url = https://github.com/andriypartyshev/loading_motor_unity_visualization.git
 [submodule "unity_motor_dt"]
 	path = unity_motor_dt
 	url = https://github.com/andriypartyshev/unity_motor_dt.git
