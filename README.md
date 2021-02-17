@@ -46,6 +46,12 @@ In current version, we simulate the data reception with use of .csv files that a
 
 4. Place the downloaded files(extract first) from Requirements section in (step 4) into /src/Utilities folder of your ROS workspace
 
+5. In files: *input_current.launch* and *efficiency_map.launch* change *sejego* in the line below to **your host machine name**:
+
+```xml
+<param name="csv_file" type="str" value="/home/sejego/catkin_ws/src/Utilities/$(arg filename)" />
+```
+
 ### Unity Project
 
 1. Download Unity Hub and install Unity 2019.3
