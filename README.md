@@ -1,6 +1,6 @@
 # LOADING_MOTOR_DT
 
-This README will briefly guide you to install and run the *loadng_motor_tb digital twin* for the project **PSG-453**
+This README will briefly guide you to install and run the *loading_motor_tb digital twin* for the project **PSG-453**
 ## General Overview
 ****
 
