@@ -4,11 +4,11 @@ This README will briefly guide you to install and run the *loadng_motor_tb digit
 ## General Overview
 ****
 
-loading_motor_tb repo is a digital twin for the loading motor -- name -- . 
+loading_motor_tb repo is a digital twin for the loading motor ABB 3GAA132214-ADE. 
 
 It consists of 2 parts:
 - ROS package tb_digital_twin
-- Unity project containing vizualization of -- name --
+- Unity project containing vizualization
 
 These 2 parts are interconnected and are communicating over the ROS bridge, however, they are also capable of running on their own, if you provide the required data (e.g. csv files / rostopic pub).
 
