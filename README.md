@@ -1,5 +1,8 @@
 # LOADING_MOTOR_DT
 
+**NB! The ROS is deprecated for this project and is no longer updated!** Please refer to latest developments in [ROS2 Loading Motor Digital Twin Repo](https://github.com/TalTech-PSG453/ros2-loading_motor_dt)
+
+
 This README will briefly guide you to install and run the *loading_motor_tb digital twin* for the project **PSG-453**
 ## General Overview
 ****
@@ -78,3 +81,9 @@ In current version, we simulate the data reception with use of .csv files that a
 2. Use controls attached to the *Load Motor* object to manipulate the simulation
 
 ## 
+
+# Publications 
+
+1. [Digital Twin Service Unit for AC Motor Stator Inter-Turn Short Circuit Fault Detection](10.1109/IWED52055.2021.9376328)
+
+2. [ROS middle-layer integration to Unity 3D as an interface option for propulsion drive simulations of autonomous vehicles](10.1088/1757-899X/1140/1/012008)
